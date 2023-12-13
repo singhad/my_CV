@@ -1,12 +1,12 @@
 # ABOUT ME
 
-```
+
 Originally from India, I am currently engaged in a PhD in Artificial Intelligence and Machine Learning (AI/ML) at the University of Limerick, Ireland. I am deeply involved in research areas such as Machine Learning, Natural Language Processing, and Reinforcement Learning. This pursuit is fully funded by the Science Foundation Ireland Centre for Research and Training in Artificial Intelligence (SFI CRT-AI), reflecting my commitment to advancing in this dynamic field. Prior to this, I had successfully completed my M.Sc. in Data Analytics from the National College of Ireland, where I excelled with First Class Honours.
 
 My academic journey also includes a M.Sc. in Physics with a focus on Theoretical Astrophysics & Cosmology from the University of Zurich, Switzerland, and a B.Sc. (Honours) in Physics from the University of Delhi, India. My educational experiences have been diverse and enriching, providing me with a strong foundation in both theoretical and applied sciences. Alongside my studies, I have developed a proficiency in programming languages like Python, C++, and R, and tools such as SPSS, SQL, and Tableau. I can effectively work in IBM SPSS, SQL, Tableau, PowerBI, Git, Microsoft Dynamics 365, JupyterLab/Notebooks, Google Colab, Latex. I am trying to improve HTML/CSS skills by designing webpages.
 
 In my professional journey, I have contributed significantly as a Module Leader and Teaching Assistant at the University of Limerick, and as an Associate Faculty at the National College of Ireland. These roles have allowed me to engage deeply in subjects like Artificial Intelligence and Data Mining. Additionally, I have authored several publications in renowned conferences and journals, which is a testament to my research capabilities and commitment to advancing the field of AI and Machine Learning.
-```
+
 
 ---
 
