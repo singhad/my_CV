@@ -100,8 +100,15 @@ In my professional journey, I have contributed significantly as a Module Leader 
 
 ## Edge IoT prototyping using Model-Driven representations: A use-case for Smart Agriculture
 - **Publication:** MDPI Sensors 2023 (Journal)
+- **Date Published:** 12.01.2024
+- **URL:** [Read More](https://www.mdpi.com/1424-8220/24/2/495)
+- **Citation:** Guevara I, Ryan S, Singh A, Brandon C, Margaria T. Edge IoT Prototyping Using Model-Driven Representations: A Use Case for Smart Agriculture. Sensors. 2024; 24(2):495.
+- **Abstract:** ```Industry 4.0 is positioned at the junction of different disciplines, aiming to re-engineer processes and improve effectiveness and efficiency. It is taking over many industries whose traditional practices are being disrupted by advances in technology and inter-connectivity. In this context, enhanced agriculture systems incorporate new components that are capable of generating better decision making (humidity/temperature/soil sensors, drones for plague detection, smart irrigation, etc.) and also include novel processes for crop control (reproducible environmental conditions, proven strategies for water stress, etc.). At the same time, advances in model-driven development (MDD) simplify software development by introducing domain-specific abstractions of the code that makes application development feasible for domain experts who cannot code. XMDD (eXtreme MDD) makes this way to assemble software even more user-friendly and enables application domain experts who are not programmers to create complex solutions in a more straightforward way. Key to this approach is the introduction of high-level representations of domain-specific functionalities (called SIBs, service-independent building blocks) that encapsulate the programming code and their organisation in reusable libraries, and they are made available in the application development environment. This way, new domain-specific abstractions of the code become easily comprehensible and composable by domain experts. In this paper, we apply these concepts to a smart agriculture solution, producing a proof of concept for the new methodology in this application domain to be used as a portable demonstrator for MDD in IoT and agriculture in the Confirm Research Centre for Smart Manufacturing. Together with model-driven development tools, we leverage here the capabilities of the Nordic Thingy:53 as a multi-protocol IoT prototyping platform. It is an advanced sensing device that handles the data collection and distribution for decision making in the context of the agricultural system and supports edge computing. We demonstrate the importance of high-level abstraction when adopting a complex software development cycle within a multilayered heterogeneous IT ecosystem.```
+
+
+## CINCO de Bio: A Future Internet Platform for Domain-Specific Workflows that Leverage AI for Biomedical Research
+- **Publication:** MDPI BioMedInformatics (Journal)
 - **Date Published:** Pending Review
 - **URL:** N/A
 - **Citation:** N/A
 - **Abstract:** N/A
-
