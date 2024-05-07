@@ -1,2 +1,13 @@
-
+# Mac temp files
 .DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# Large datasets/models
+.npy
+*.npy
+.npz
+*.npz
+.h5
+*.h5
