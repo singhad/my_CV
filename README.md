@@ -1,18 +1,44 @@
 # ABOUT ME
 
+Originally from India, I am currently in the final stage of my PhD in Artificial Intelligence and Machine Learning at the University of Limerick, Ireland, funded by the Science Foundation Ireland Centre for Research Training in AI (SFI CRT-AI). My work focuses on building modular, reusable, and reproducible machine learning pipelines for applied use cases in healthcare, edge computing, and data analytics, with emphasis on stakeholder usability, interpretability, and performance. Prior to this, I completed an M.Sc. in Data Analytics from the National College of Ireland with First Class Honours, where I specialized in machine learning, statistical modelling, and scalable data workflows.
 
-Originally from India, I am currently engaged in a PhD in Artificial Intelligence and Machine Learning (AI/ML) at the University of Limerick, Ireland. I am deeply involved in research areas such as Machine Learning, Natural Language Processing, and Reinforcement Learning. This pursuit is fully funded by the Science Foundation Ireland Centre for Research and Training in Artificial Intelligence (SFI CRT-AI), reflecting my commitment to advancing in this dynamic field. Prior to this, I had successfully completed my M.Sc. in Data Analytics from the National College of Ireland, where I excelled with First Class Honours.
+I also hold an M.Sc. in Physics with a specialization in Theoretical Astrophysics & Cosmology from the University of Zurich, and a B.Sc. (Honours) in Physics from the University of Delhi. These academic foundations have given me the analytical and mathematical depth to approach problems systematically. I am proficient in Python and familiar with SQL and Git; I have worked with frameworks such as scikit-learn, TensorFlow, Keras, and PyTorch for model development, and explored tools like Docker, MLFlow, and GitHub Actions in the context of reproducibility and deployment. I’ve also contributed to the design and evaluation of low-code/no-code AI platforms (CINCO de Bio, Pyrus, DIME), aimed at enabling non-technical users to build and reuse ML pipelines.
 
-My academic journey also includes a M.Sc. in Physics with a focus on Theoretical Astrophysics & Cosmology from the University of Zurich, Switzerland, and a B.Sc. (Honours) in Physics from the University of Delhi, India. My educational experiences have been diverse and enriching, providing me with a strong foundation in both theoretical and applied sciences. Alongside my studies, I have developed a proficiency in programming languages like Python, C++, and R, and tools such as SPSS, SQL, and Tableau. I can effectively work in IBM SPSS, SQL, Tableau, PowerBI, Git, Microsoft Dynamics 365, JupyterLab/Notebooks, Google Colab, Latex. I am trying to improve HTML/CSS skills by designing webpages.
+Professionally, I have served as an *AI/ML Engineer (PhD)* and *Applied Researcher (PhD)* at the University of Limerick, where I worked on full-cycle ML pipelines, real-time edge analytics, and experimental MLOps foundations. I have also delivered lectures and provided technical mentoring in my role as Academic Teaching & Mentoring faculty, covering subjects like AI/ML, data analytics, and software testing. In parallel with my research, I’ve authored 10+ peer-reviewed publications in conferences and journals, with contributions in model interpretability, workflow automation, and domain-specific AI. I’m also passionate about open-source learning and enjoy building clean, testable code and lightweight web projects to improve my HTML/CSS skills.
 
-In my professional journey, I have contributed significantly as a Module Leader and Teaching Assistant at the University of Limerick, and as an Associate Faculty at the National College of Ireland. These roles have allowed me to engage deeply in subjects like Artificial Intelligence and Data Mining. Additionally, I have authored several publications in renowned conferences and journals, which is a testament to my research capabilities and commitment to advancing the field of AI and Machine Learning.
+---
+
+# Work Experience
+
+## AI/ML Engineer – Pipeline Development & AI Experimentation (PhD)
+**University of Limerick** (Sep 2021 – Present)  
+- Designed and implemented modular ML pipelines using Python and SQL for structured and semi-structured datasets.  
+- Focused on reproducibility, traceability, and Git-based version control.  
+- Evaluated classification and summarisation workflows for research reporting and stakeholder-aligned outcomes.  
+- Collaborated with engineers and domain experts to produce dashboard summaries and technical insights.
+
+## Applied Researcher – Edge AI & MLOps Foundations (PhD)
+**University of Limerick** (Jan 2023 – Dec 2023)  
+- Built real-time data pipelines on embedded devices (Raspberry Pi, Thingy:53) for latency-sensitive health monitoring.  
+- Contributed to early-stage MLOps workflows using configuration-driven metadata tracking and automated evaluation pipelines.  
+- Evaluated tools like MLFlow, Docker, and GitHub Actions to assess reproducibility, deployment readiness, and integration feasibility.
+
+## Academic Teaching & Mentoring Experience
+**University of Limerick & National College of Ireland** (Jan 2021 – May 2023)  
+- Delivered lectures, lab sessions, and technical mentoring in AI/ML, Software Testing, Data Analytics, and Programming.  
+- Supervised student-led projects involving classification pipelines, data visualisation, Python-based dashboards, and validation workflows.  
+- Reinforced principles of reproducibility, modularity, version control, and Agile-style development in collaborative coursework.  
+- Modules taught or supported include:  
+  - *Theory and Practice of Advanced AI Ecosystems* (UL)  
+  - *Software Testing and Inspection*, *Problem Solving with Computers* (UL)  
+  - *Artificial Intelligence*, *Data Mining & ML*, *Data Visualisation*, *SQL & Databases*, *Algorithms & Advanced Programming* (NCI)
 
 
 ---
 
 # Education
 
-## **PhD in Artificial Intelligence and Machine Learning (AI/ML)** (Sep 2021 – Present)
+## **PhD in Artificial Intelligence and Machine Learning (AI/ML)** (Sep 2021 – May 2025)
 ### University of Limerick, Limerick, Ireland
 - Fully-funded by Science Foundation Ireland Centre for Research and Training in Artificial Intelligence (SFI CRT-AI).
 - Modules: Machine Learning, Optimization and Constraint Programming, Visual Media Processing, Reinforcement Learning and Personalisation, Natural Language Processing, Research Integrity, Digital Research Management, Research Networking: Developing an Academic Profile, Planning Research & Publication, Research Ethics, Developing Ideas & Arguments: Writing into Academic Communities.
@@ -31,26 +57,6 @@ In my professional journey, I have contributed significantly as a Module Leader 
 ### University of Delhi, New Delhi, India
 - Grades: 77.64%, 1.1 grade, First Class Honours.
 - Relevant Modules: Mathematics (Analysis & Statistics), Mathematical Physics (Linear Algebra, Calculus, Linear Programming), Numerical Analysis (C++), Microprocessor Programming, Digital Electronics.
-
----
-
-# Work Experience
-
-## Module Leader
-- **University of Limerick**
-  - Presented lectures, labs & delivered course material to students.
-  - Modules Lectured for: Theory and Practice of Advanced AI Ecosystems (class of 20 students).
-
-## Teaching Assistant
-- **University of Limerick** (Sep 2021 – Dec 2022)
-  - Organised lab sessions & Assisted students in clearing queries & doubts during and after the lectures.
-  - Assisted in the modules: Software Testing and Inspection (class of 90 students), Theory and Practice of Advanced AI Ecosystems (class of 20 students), Problem Solving with Computers (Python, Java, DIME, ADD-Lib, Pyrus, Boolean Algebra) (class of 20 students).
-
-## Associate Faculty
-- **National College of Ireland** (Jan 2021 – Oct 2021)
-  - Presented lectures & delivered course material to students.
-  - Modules lectured for: Artificial Intelligence, Data Mining & Machine Learning, Algorithms & Advanced Programming, Data Visualisation, SQL & Databases, Python, R (average class of 30 students).
-  - Assisted in the modules: Data Mining & Machine learning-2, Database & Analytics programming, Statistics for Data Analytics, SQL & Databases, Business Intelligence & Business Analytics, Modelling Simulation & Optimisation, Python & R (average class of 30 students).
 
 ---
 
